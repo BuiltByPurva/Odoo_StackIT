@@ -39,7 +39,6 @@ Clicking the icon opens a dropdown with recent notifications
 Mock-up:- https://link.excalidraw.com/l/65VNwvy7c4X/9mhEahV0MQg 
 
 Team Name: APUV
-1. Umed Jogi
-2. Varsha Gupta
-3. Purva Kamerkar
-
+1. Umed Jogi - Umed.jogi43@gmail.com
+2. Varsha Gupta - varsha.gupta.email@gmail.com
+3. Purva Kamerkar - purvakamerkarjj5499@gmail.com
